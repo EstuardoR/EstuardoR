@@ -8,7 +8,7 @@ I am a junior programmer passionate about web development. I love exploring new 
 
 *   🌍  I'm from Guatemala
 *   ✉️  You can contact me at [rrodasestuardo2004@gmail.com](mailto:rrodasestuardo2004@gmail.com)
-*   🧠  I'm learning Redux
+*   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on Websites and Apps
 
 *   ### Skills 
