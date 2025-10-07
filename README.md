@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Estuardo
 ================================================================================================================================
 
-I'm Junior Developer
+I'm Front-End Developer
 --------------------
 
 I am a junior programmer passionate about web development. I love exploring new technologies and continuously improving my skills. Here you will find some of my projects, where I apply what I have learned and experiment with different tools and frameworks.
